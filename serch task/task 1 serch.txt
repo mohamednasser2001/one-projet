@@ -1,0 +1,16 @@
+1. why the output of this Equation = $30.00?
+      Standard numeric format strings are used to format common numeric types. A standard numeric format string takes the form
+      If a letter (c,C )represents a dollar sign.
+2. what is its benefit?
+      We benefit from this by saying that some operations are summarized in the form of a letter written in a specific way.
+3. try another example with a different specifier with a screenshot of the output.
+     There are many  
+     B,b  	Result: A binary string.
+     D,d     Result: Integer digits with optional negative sign.
+    E,e      Result: Exponential notation.
+    F,f       Result: Integral and decimal digits with optional negative sign.
+    G,g    	Result: The more compact of either fixed-point or scientific notation.
+    N,n     	Result: Integral and decimal digits, group separators, and a decimal separator with optional negative sign.
+    P,p      	Result: Number multiplied by 100 and displayed with a percent symbol.
+   R,r        Result: A string that can round-trip to an identical number.
+  X x       Result: A hexadecimal string.

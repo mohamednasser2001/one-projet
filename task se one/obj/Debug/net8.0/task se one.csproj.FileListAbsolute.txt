@@ -1,0 +1,14 @@
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\bin\Debug\net8.0\task se one.exe
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\bin\Debug\net8.0\task se one.deps.json
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\bin\Debug\net8.0\task se one.runtimeconfig.json
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\bin\Debug\net8.0\task se one.dll
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\bin\Debug\net8.0\task se one.pdb
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\task se one.GeneratedMSBuildEditorConfig.editorconfig
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\task se one.AssemblyInfoInputs.cache
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\task se one.AssemblyInfo.cs
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\task se one.csproj.CoreCompileInputs.cache
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\task se one.dll
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\refint\task se one.dll
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\task se one.pdb
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\task se one.genruntimeconfig.cache
+E:\محمد الالباني\ErraSoft\tasks\se1\task se one\task se one\obj\Debug\net8.0\ref\task se one.dll
